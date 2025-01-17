@@ -1,2 +1,3 @@
 # TicTacToe
-First repo
+My First reposoitory
+Author - Swasti Maity
