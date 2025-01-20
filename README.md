@@ -1,4 +1,4 @@
 # Project1
-My First reposoitory.
+My First repository.
 <br>
 Author - Swasti Maity
